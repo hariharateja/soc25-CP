@@ -1,4 +1,5 @@
-This week we will be focused on sorting, search and linked lists. You’ll can refer here to learn different techniques for sorting. Some compiled questions for the same are:/n
+week2 
+This week we will be focused on sorting, search and linked lists. You’ll can refer here to learn different techniques for sorting. Some compiled questions for the same are:
 
 
 Sorting and Searching:/n
