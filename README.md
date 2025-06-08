@@ -1,8 +1,8 @@
-This week we will be focused on sorting, search and linked lists. You’ll can refer here to learn different techniques for sorting. Some compiled questions for the same are:
+This week we will be focused on sorting, search and linked lists. You’ll can refer here to learn different techniques for sorting. Some compiled questions for the same are:/n
 
 
-Sorting and Searching:
-1)https://cses.fi/problemset/task/1084
+Sorting and Searching:/n
+1)https://cses.fi/problemset/task/1084/
 2)https://cses.fi/problemset/task/1643/ 
 3)https://cses.fi/problemset/task/2183
 4)https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/?envType=study-plan-v2&envId=leetcode-75
