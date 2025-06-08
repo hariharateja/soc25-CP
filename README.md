@@ -2,15 +2,32 @@ week2
 This week we will be focused on sorting, search and linked lists. You’ll can refer here to learn different techniques for sorting. Some compiled questions for the same are:
 
 
-Sorting and Searching:/n
+Sorting and Searching:
+
+
 1)https://cses.fi/problemset/task/1084/
+
+
 2)https://cses.fi/problemset/task/1643/ 
+
+
 3)https://cses.fi/problemset/task/2183
+
+
 4)https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/?envType=study-plan-v2&envId=leetcode-75
+
+
 5)https://leetcode.com/problems/single-number/description/?envType=study-plan-v2&envId=leetcode-75
+
+
 6)https://leetcode.com/problems/is-subsequence/description/?envType=study-plan-v2&envId=leetcode-75
+
+
 7)https://leetcode.com/problems/guess-number-higher-or-lower/description/?envType=study-plan-v2&envId=leetcode-75
+
+
 8)https://cses.fi/problemset/task/1640
+
 
 Binary Search is an important topic in CP. It often appears as a subproblem in many questions, even when it’s not immediately obvious. Therefore, it’s recommended that you have a strong understanding of the topic and its applications.
 
